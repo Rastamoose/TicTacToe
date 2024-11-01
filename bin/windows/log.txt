@@ -1,0 +1,17 @@
+<WINDOWMANAGER> SDL video system initialised.
+<WINDOWMANAGER> SDL render blend mode set.
+<IMGHANDLER> IMG initialised.
+<TTFHANDLER> TTF initialised.
+<IMGHANDLER> Failed to load a texture. Error: 
+<IMGHANDLER> Failed to load a texture. Error: 
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Failed to load a texture. Error: Invalid texture
+<IMGHANDLER> Textures successfully destroyed.
+<TTFHANDLER> Fonts successfully destroyed.
+<TTFHANDLER> Textures successfully destroyed.
